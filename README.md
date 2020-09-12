@@ -4,8 +4,6 @@
 
 我是 mqycn，一个成长中的全栈开发者。个人主页： [miaoqiyuan.cn](http://www.miaoqiyuan.cn/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqycn&hide=html,css">
-
 ### 我的开源项目
 
 **on github**
